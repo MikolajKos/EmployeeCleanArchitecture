@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FB4B77-E68F-4C3F-8685-74825EC03146}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FB4B77-E68F-4C3F-8685-74825EC03146}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF5068-EAA5-4A24-AD1F-EAAE781F8A8B}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\infrastructurelayer\\implemetations\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEF5068-EAA5-4A24-AD1F-EAAE781F8A8B}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\implemetations\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF5068-EAA5-4A24-AD1F-EAAE781F8A8B}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\infrastructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEF5068-EAA5-4A24-AD1F-EAAE781F8A8B}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\ApplicationLayer\\Contracts\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Contracts\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\ApplicationLayer\\Contracts\\IEmployee.cs",
+              "RelativeToolTip": "ApplicationLayer\\Contracts\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:17:17.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:05:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Implemetations\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Implemetations\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Implemetations\\EmployeeRepo.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Implemetations\\EmployeeRepo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCQAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:29:47.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
