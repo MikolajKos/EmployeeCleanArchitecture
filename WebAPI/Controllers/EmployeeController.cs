@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApplicationLayer.Contracts;
+using DomainLayer.Entities;
+using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,36 +10,47 @@ namespace WebAPI.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        // GET: api/<EmployeeController>
+        private readonly IEmployee employee;
+
+        public EmployeeController(IEmployee employee)
+        {
+            this.employee = employee;
+        }
+
+        //GET: api/<EmployeeController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IActionResult> Get()
         {
-            return new string[] { "value1", "value2" };
+            var data = await employee.GetAsync();
+            return Ok(data);
         }
 
-        // GET api/<EmployeeController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> GetById(int id)
         {
-            return "value";
+            var data = await employee.GetByIdAsync(id);
+            return Ok(data);
         }
 
-        // POST api/<EmployeeController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task<IActionResult> Add([FromBody] Employee employeeDto)
         {
+            var result = await employee.AddAsync(employeeDto);
+            return Ok(result);
         }
 
-        // PUT api/<EmployeeController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut]
+        public async Task<IActionResult> Update([FromBody] Employee employeeDto)
         {
+            var result = await employee.UpdateAsync(employeeDto);
+            return Ok(result);
         }
 
-        // DELETE api/<EmployeeController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            var result = await employee.DeleteAsync(id);
+            return Ok(result);
         }
     }
 }
