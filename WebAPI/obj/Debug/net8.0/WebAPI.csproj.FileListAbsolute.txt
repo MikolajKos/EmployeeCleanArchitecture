@@ -139,3 +139,5 @@ C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArc
 C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAPI\bin\Debug\net8.0\DomainLayer.dll
 C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAPI\bin\Debug\net8.0\ApplicationLayer.pdb
 C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAPI\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAPI\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAPI\bin\Debug\net8.0\InfrastructureLayer.pdb

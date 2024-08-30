@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Migrations\\20240830114331_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfrastructureLayer\\Migrations\\20240830114331_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9D7D057-BBD8-4CBB-B736-1BB86959DA50}|WebAPI\\WebAPI.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9D7D057-BBD8-4CBB-B736-1BB86959DA50}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240830114331_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Migrations\\20240830114331_Initial.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Migrations\\20240830114331_Initial.cs",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Migrations\\20240830114331_Initial.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Migrations\\20240830114331_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:43:31.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IEmployee.cs",
               "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\ApplicationLayer\\Contracts\\IEmployee.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\Contracts\\IEmployee.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "InfrastructureLayer\\Data\\AppDbContext.cs",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeRepo.cs",
               "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\InfrastructureLayer\\Implemetations\\EmployeeRepo.cs",
               "RelativeDocumentMoniker": "InfrastructureLayer\\Implemetations\\EmployeeRepo.cs",

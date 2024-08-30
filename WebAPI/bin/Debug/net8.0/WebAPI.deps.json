@@ -9,6 +9,7 @@
       "WebAPI/1.0.0": {
         "dependencies": {
           "ApplicationLayer": "1.0.0",
+          "InfrastructureLayer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
@@ -918,6 +919,16 @@
         "runtime": {
           "DomainLayer.dll": {}
         }
+      },
+      "InfrastructureLayer/1.0.0": {
+        "dependencies": {
+          "ApplicationLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
+        },
+        "runtime": {
+          "InfrastructureLayer.dll": {}
+        }
       }
     }
   },
@@ -1507,6 +1518,11 @@
       "sha512": ""
     },
     "DomainLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfrastructureLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
