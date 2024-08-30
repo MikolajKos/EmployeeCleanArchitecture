@@ -1048,3 +1048,13 @@ C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArc
 C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\obj\Debug\net8.0\compressed\ms89s5glds.gz
 C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\obj\Debug\net8.0\compressed\w4hb0aebde.gz
 C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\obj\Debug\net8.0\compressed\dm23em3f4e.gz
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\bin\Debug\net8.0\wwwroot\_framework\NetcodeHub.Packages.Components.Toast.wasm
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\bin\Debug\net8.0\wwwroot\_framework\NetcodeHub.Packages.Components.Validations.wasm
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\bin\Debug\net8.0\wwwroot\_framework\NetcodeHub.Packages.Components.Toast.wasm.gz
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\bin\Debug\net8.0\wwwroot\_framework\NetcodeHub.Packages.Components.Validations.wasm.gz
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\bin\Debug\net8.0\NetcodeHub.Packages.Components.Toast.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\bin\Debug\net8.0\NetcodeHub.Packages.Components.Validations.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\obj\Debug\net8.0\webcil\NetcodeHub.Packages.Components.Toast.wasm
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\obj\Debug\net8.0\webcil\NetcodeHub.Packages.Components.Validations.wasm
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\obj\Debug\net8.0\compressed\0eweikgyew.gz
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Teddy Smith ASP\EmployeeCleanArchitecture\WebAssembly\obj\Debug\net8.0\compressed\52tb7i80c1.gz

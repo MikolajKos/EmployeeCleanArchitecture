@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84698484-F47D-472C-BA9E-1DE63555C33B}|WebAssembly\\WebAssembly.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84698484-F47D-472C-BA9E-1DE63555C33B}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84698484-F47D-472C-BA9E-1DE63555C33B}|WebAssembly\\WebAssembly.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84698484-F47D-472C-BA9E-1DE63555C33B}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D7D057-BBD8-4CBB-B736-1BB86959DA50}|WebAPI\\WebAPI.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9D7D057-BBD8-4CBB-B736-1BB86959DA50}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84698484-F47D-472C-BA9E-1DE63555C33B}|WebAssembly\\WebAssembly.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\webassembly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{84698484-F47D-472C-BA9E-1DE63555C33B}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D7D057-BBD8-4CBB-B736-1BB86959DA50}|WebAPI\\WebAPI.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D9D7D057-BBD8-4CBB-B736-1BB86959DA50}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53FB4B77-E68F-4C3F-8685-74825EC03146}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\applicationlayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53FB4B77-E68F-4C3F-8685-74825EC03146}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53FB4B77-E68F-4C3F-8685-74825EC03146}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\employeecleanarchitecture\\applicationlayer\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53FB4B77-E68F-4C3F-8685-74825EC03146}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAssembly\\Program.cs",
-              "RelativeDocumentMoniker": "WebAssembly\\Program.cs",
-              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAssembly\\Program.cs",
-              "RelativeToolTip": "WebAssembly\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T12:50:18.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T12:48:16.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAssembly\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebAssembly\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAssembly\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebAssembly\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T12:47:09.199Z",
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAssembly\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAssembly\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAssembly\\Pages\\Home.razor*",
+              "RelativeToolTip": "WebAssembly\\Pages\\Home.razor*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T12:52:21.713Z",
               "EditorCaption": ""
             },
             {
@@ -83,35 +41,9 @@
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T12:43:53.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\ApplicationLayer\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\ApplicationLayer\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "ApplicationLayer\\Services\\EmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T12:29:11.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\ApplicationLayer\\Services\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\ApplicationLayer\\Services\\IEmployeeService.cs",
-              "RelativeToolTip": "ApplicationLayer\\Services\\IEmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T12:21:10.187Z",
               "EditorCaption": ""
             }
           ]
