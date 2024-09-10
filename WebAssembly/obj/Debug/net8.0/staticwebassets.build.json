@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y2nemyjt6U1Pkl0IKqBOnCZ0w8rmKawfJMr7sskuKxc=",
+  "Hash": "73K9u26kJShQoLD6VIYY1RSDOZ6+jPDIWoatqQbMyY4=",
   "Source": "WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -17,10 +17,48 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.5\\staticwebassets\\NetcodeHub.Packages.Components.Toast.bundle.scp.css",
+      "Identity": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\background.png",
       "SourceId": "NetcodeHub.Packages.Components.Toast",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\",
+      "BasePath": "_content/NetcodeHub.Packages.Components.Toast",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\exampleJsInterop.js",
+      "SourceId": "NetcodeHub.Packages.Components.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\",
+      "BasePath": "_content/NetcodeHub.Packages.Components.Toast",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\NetcodeHub.Packages.Components.Toast.bundle.scp.css",
+      "SourceId": "NetcodeHub.Packages.Components.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\",
       "BasePath": "_content/NetcodeHub.Packages.Components.Toast",
       "RelativePath": "NetcodeHub.Packages.Components.Toast.bundle.scp.css",
       "AssetKind": "All",
@@ -33,7 +71,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.5\\staticwebassets\\NetcodeHub.Packages.Components.Toast.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\staticwebassets\\NetcodeHub.Packages.Components.Toast.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.validations\\1.0.1\\staticwebassets\\background.png",

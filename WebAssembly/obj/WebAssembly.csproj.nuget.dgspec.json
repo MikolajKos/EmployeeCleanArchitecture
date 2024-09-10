@@ -217,7 +217,7 @@
             },
             "NetcodeHub.Packages.Components.Toast": {
               "target": "Package",
-              "version": "[1.0.5, )"
+              "version": "[1.0.1, )"
             },
             "NetcodeHub.Packages.Components.Validations": {
               "target": "Package",

@@ -1,14 +1,15 @@
 ﻿@page "/"
 @using ApplicationLayer.Services
 @using DomainLayer.Entities
-@using NetcodeHub.Packages.Components.Validations.OnInput
+@* @using NetcodeHub.Packages.Components.Validations.OnInput
 @using NetcodeHub.Packages.Components.Toast
 @inject IEmployeeService emp
+@inject ToastService toastService *@
 
 
 <PageTitle>Home</PageTitle>
 
-<div class="row">
+@* <div class="row">
     <div class="col-lg-6">
         <EditForm Model="employee" OnValidSubmit="Save">
             <DataAnnotationsValidator />
@@ -18,8 +19,8 @@
             <ValidationMessage For="()=>employee.Name" />
             <FloatingTextArea @bind-Value="employee.Address"
                               Label="Customer Address"
-                              Placeholder="Warszawa" 
-                              class="mb-3"/>
+                              Placeholder="Warszawa"
+                              class="mb-3" />
             <ValidationMessage For="()=>employee.Address" />
 
             <button class="btn btn-primary mt-5 mb-5" type="submit">Save</button>
@@ -27,7 +28,7 @@
     </div>
 </div>
 
-<NetcodeHubToast Duration="@duration" Persist="true" @ref=""/>
+<Toast Duration="@duration" Persist=true @ref="toastService.ToastComponent" />
 
 
 @code {
@@ -37,6 +38,13 @@
     async Task Save()
     {
         var (flag, message) = await emp.AddAsync(employee);
-        //if(flag)
+        if (!flag)
+        {
+            duration = 5000;
+            toastService.ShowSuccessToast("Warning", message);
+            return;
+        }
+
+        toastService.ShowSuccessToast("Success", message);
     }
-}
+} *@

@@ -435,7 +435,7 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
-      "NetcodeHub.Packages.Components.Toast/1.0.5": {
+      "NetcodeHub.Packages.Components.Toast/1.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "8.0.0"
@@ -986,7 +986,7 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
-      "NetcodeHub.Packages.Components.Toast/1.0.5": {
+      "NetcodeHub.Packages.Components.Toast/1.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "8.0.0"
@@ -2030,23 +2030,24 @@
         "tools/net8.0/System.Windows.Extensions.dll"
       ]
     },
-    "NetcodeHub.Packages.Components.Toast/1.0.5": {
-      "sha512": "zo+WJHNgACz2ZWdn6NLiU9tqkHnRPdYQ3wMd4+jVox/omt/sYfGlrfPhtdrDHGBpfX4q7j02Ej1iVx8j5KT2Zw==",
+    "NetcodeHub.Packages.Components.Toast/1.0.1": {
+      "sha512": "NkfMhQPlnKconRYi7GHScdhR6pzDdIH4ZbZb2pcrrnE/FIiZ3mmSTkmcbj6mStUYcv9w7o+O6YX8Lg69irVANA==",
       "type": "package",
-      "path": "netcodehub.packages.components.toast/1.0.5",
+      "path": "netcodehub.packages.components.toast/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "License.txt",
         "build/Microsoft.AspNetCore.StaticWebAssets.props",
         "build/NetcodeHub.Packages.Components.Toast.props",
         "buildMultiTargeting/NetcodeHub.Packages.Components.Toast.props",
         "buildTransitive/NetcodeHub.Packages.Components.Toast.props",
         "lib/net8.0/NetcodeHub.Packages.Components.Toast.dll",
         "netcode-hub.png",
-        "netcodehub.packages.components.toast.1.0.5.nupkg.sha512",
+        "netcodehub.packages.components.toast.1.0.1.nupkg.sha512",
         "netcodehub.packages.components.toast.nuspec",
-        "staticwebassets/NetcodeHub.Packages.Components.Toast.bundle.scp.css"
+        "staticwebassets/NetcodeHub.Packages.Components.Toast.bundle.scp.css",
+        "staticwebassets/background.png",
+        "staticwebassets/exampleJsInterop.js"
       ]
     },
     "NetcodeHub.Packages.Components.Validations/1.0.1": {
@@ -2223,7 +2224,7 @@
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.7",
       "Microsoft.NET.ILLink.Tasks >= 8.0.7",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.7",
-      "NetcodeHub.Packages.Components.Toast >= 1.0.5",
+      "NetcodeHub.Packages.Components.Toast >= 1.0.1",
       "NetcodeHub.Packages.Components.Validations >= 1.0.1"
     ]
   },
@@ -2307,7 +2308,7 @@
           },
           "NetcodeHub.Packages.Components.Toast": {
             "target": "Package",
-            "version": "[1.0.5, )"
+            "version": "[1.0.1, )"
           },
           "NetcodeHub.Packages.Components.Validations": {
             "target": "Package",

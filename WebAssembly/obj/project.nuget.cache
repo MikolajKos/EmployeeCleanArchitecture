@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "K45fO5PklZo=",
+  "dgSpecHash": "fzIExoWvBsk=",
   "success": true,
   "projectFilePath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\EmployeeCleanArchitecture\\WebAssembly\\WebAssembly.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,7 @@
     "C:\\Users\\nikok\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.7\\microsoft.jsinterop.webassembly.8.0.7.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
-    "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.5\\netcodehub.packages.components.toast.1.0.5.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.toast\\1.0.1\\netcodehub.packages.components.toast.1.0.1.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\netcodehub.packages.components.validations\\1.0.1\\netcodehub.packages.components.validations.1.0.1.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
